@@ -1,0 +1,17 @@
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.deps.json
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.EN.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.EN.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.EN.Interfaces.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\bin\Debug\net6.0\KevinMiranda.ArqLimpia.EN.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\refint\KevinMiranda.ArqLimpia.DAL.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\KevinMiranda.ArqLimpia.DAL.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.DAL\obj\Debug\net6.0\ref\KevinMiranda.ArqLimpia.DAL.dll

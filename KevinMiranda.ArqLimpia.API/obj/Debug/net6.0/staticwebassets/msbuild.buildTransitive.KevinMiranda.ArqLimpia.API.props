@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KevinMiranda.ArqLimpia.API.props" />
+</Project>

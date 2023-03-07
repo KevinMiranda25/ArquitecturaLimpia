@@ -1,0 +1,12 @@
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.deps.json
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\refint\KevinMiranda.ArqLimpia.BL.DTOs.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.DTOs\obj\Debug\net6.0\ref\KevinMiranda.ArqLimpia.BL.DTOs.dll

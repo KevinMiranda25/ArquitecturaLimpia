@@ -1,0 +1,254 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Extensions.DependencyInjection/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "KevinMiranda.ArqLimpia.BL.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.BL.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.BL.DTOs.dll": {}
+        }
+      },
+      "KevinMiranda.ArqLimpia.BL.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "KevinMiranda.ArqLimpia.BL.DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.BL.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.BL.Interfaces.dll": {}
+        }
+      },
+      "KevinMiranda.ArqLimpia.EN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.EN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.EN.dll": {}
+        }
+      },
+      "KevinMiranda.ArqLimpia.EN.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "KevinMiranda.ArqLimpia.EN": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.EN.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KevinMiranda.ArqLimpia.EN.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection/7.0.0": {
+      "sha512": "elNeOmkeX3eDVG6pYVeV82p29hr+UKDaBhrZyWvWLw/EVZSYEkZlQdkp0V39k/Xehs2Qa0mvoCvkVj3eQxNQ1Q==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+      "sha512": "h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "KevinMiranda.ArqLimpia.BL.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../KevinMiranda.ArqLimpia.BL.DTOs/KevinMiranda.ArqLimpia.BL.DTOs.csproj",
+      "msbuildProject": "../KevinMiranda.ArqLimpia.BL.DTOs/KevinMiranda.ArqLimpia.BL.DTOs.csproj"
+    },
+    "KevinMiranda.ArqLimpia.BL.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../KevinMiranda.ArqLimpia.BL.Interfaces/KevinMiranda.ArqLimpia.BL.Interfaces.csproj",
+      "msbuildProject": "../KevinMiranda.ArqLimpia.BL.Interfaces/KevinMiranda.ArqLimpia.BL.Interfaces.csproj"
+    },
+    "KevinMiranda.ArqLimpia.EN/1.0.0": {
+      "type": "project",
+      "path": "../KevinMiranda.ArqLimpia.EN/KevinMiranda.ArqLimpia.EN.csproj",
+      "msbuildProject": "../KevinMiranda.ArqLimpia.EN/KevinMiranda.ArqLimpia.EN.csproj"
+    },
+    "KevinMiranda.ArqLimpia.EN.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../KevinMiranda.ArqLimpia.EN.Interfaces/KevinMiranda.ArqLimpia.EN.Interfaces.csproj",
+      "msbuildProject": "../KevinMiranda.ArqLimpia.EN.Interfaces/KevinMiranda.ArqLimpia.EN.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "KevinMiranda.ArqLimpia.BL.DTOs >= 1.0.0",
+      "KevinMiranda.ArqLimpia.BL.Interfaces >= 1.0.0",
+      "KevinMiranda.ArqLimpia.EN >= 1.0.0",
+      "KevinMiranda.ArqLimpia.EN.Interfaces >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kevin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj",
+      "projectName": "KevinMiranda.ArqLimpia.BL",
+      "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj"
+            },
+            "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj"
+            },
+            "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj"
+            },
+            "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

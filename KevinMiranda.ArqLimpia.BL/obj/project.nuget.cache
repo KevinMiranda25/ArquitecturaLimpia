@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtDGJEPlDbFrNeR5PQxhFBYUZ5KQZJdphvDVMrfUyuCmtjiz0CUR26+6dDofJeV5evuU97q4vo/xr9Uq1WgI/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

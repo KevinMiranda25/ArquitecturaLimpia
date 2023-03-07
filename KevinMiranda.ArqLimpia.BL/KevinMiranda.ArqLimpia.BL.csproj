@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KevinMiranda.ArqLimpia.BL.DTOs\KevinMiranda.ArqLimpia.BL.DTOs.csproj" />
+    <ProjectReference Include="..\KevinMiranda.ArqLimpia.BL.Interfaces\KevinMiranda.ArqLimpia.BL.Interfaces.csproj" />
+    <ProjectReference Include="..\KevinMiranda.ArqLimpia.EN.Interfaces\KevinMiranda.ArqLimpia.EN.Interfaces.csproj" />
+    <ProjectReference Include="..\KevinMiranda.ArqLimpia.EN\KevinMiranda.ArqLimpia.EN.csproj" />
+  </ItemGroup>
+
+</Project>

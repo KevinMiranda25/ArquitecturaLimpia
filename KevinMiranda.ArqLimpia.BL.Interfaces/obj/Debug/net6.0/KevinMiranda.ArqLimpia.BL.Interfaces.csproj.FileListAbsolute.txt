@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.deps.json
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\KevinMiranda.ArqLimpia.BL.DTOs.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\refint\KevinMiranda.ArqLimpia.BL.Interfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\KevinMiranda.ArqLimpia.BL.Interfaces.pdb
+C:\Users\kevin\OneDrive\Escritorio\Practicas ESFE-Agape\KevinMiranda.ArqLimpia\KevinMiranda.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\ref\KevinMiranda.ArqLimpia.BL.Interfaces.dll

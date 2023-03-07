@@ -1,0 +1,514 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.API\\KevinMiranda.ArqLimpia.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.API\\KevinMiranda.ArqLimpia.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.API\\KevinMiranda.ArqLimpia.API.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.API",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.API\\KevinMiranda.ArqLimpia.API.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.IoC\\KevinMiranda.ArqLimpia.IoC.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.IoC\\KevinMiranda.ArqLimpia.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.BL.DTOs",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.BL.Interfaces",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.BL",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.DTOs\\KevinMiranda.ArqLimpia.BL.DTOs.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL.Interfaces\\KevinMiranda.ArqLimpia.BL.Interfaces.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.DAL\\KevinMiranda.ArqLimpia.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.DAL\\KevinMiranda.ArqLimpia.DAL.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.DAL",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.DAL\\KevinMiranda.ArqLimpia.DAL.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.EN.Interfaces",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\KevinMiranda.ArqLimpia.EN.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.EN",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\KevinMiranda.ArqLimpia.EN.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.EN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.IoC\\KevinMiranda.ArqLimpia.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.IoC\\KevinMiranda.ArqLimpia.IoC.csproj",
+        "projectName": "KevinMiranda.ArqLimpia.IoC",
+        "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.IoC\\KevinMiranda.ArqLimpia.IoC.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.BL\\KevinMiranda.ArqLimpia.BL.csproj"
+              },
+              "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.DAL\\KevinMiranda.ArqLimpia.DAL.csproj": {
+                "projectPath": "C:\\Users\\kevin\\OneDrive\\Escritorio\\Practicas ESFE-Agape\\KevinMiranda.ArqLimpia\\KevinMiranda.ArqLimpia.DAL\\KevinMiranda.ArqLimpia.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

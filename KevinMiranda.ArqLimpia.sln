@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.EN", "KevinMiranda.ArqLimpia.EN\KevinMiranda.ArqLimpia.EN.csproj", "{85AB47FA-E5D0-4397-9747-78A7740253BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Business Rules", "Enterprise Business Rules", "{57C7303D-CDDE-49EA-8FEF-6247EBDC4446}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application Bussiness Rules", "Application Bussiness Rules", "{50BAE0FC-3596-48C2-8209-82443721CCFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface Adapter", "Interface Adapter", "{308FF4C1-950D-4BDB-A150-CD99F5EAB30D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrameworksDrivers", "FrameworksDrivers", "{12A6446C-C09A-47C9-BB91-B9A90A380673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.EN.Interfaces", "KevinMiranda.ArqLimpia.EN.Interfaces\KevinMiranda.ArqLimpia.EN.Interfaces.csproj", "{9F426F8F-EBF0-46E0-90D9-EA605E9D1FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.BL", "KevinMiranda.ArqLimpia.BL\KevinMiranda.ArqLimpia.BL.csproj", "{F99C9188-4ED1-4A05-B357-60106CC90AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.BL.Interfaces", "KevinMiranda.ArqLimpia.BL.Interfaces\KevinMiranda.ArqLimpia.BL.Interfaces.csproj", "{2168F801-9413-4953-AF80-31E448275053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.BL.DTOs", "KevinMiranda.ArqLimpia.BL.DTOs\KevinMiranda.ArqLimpia.BL.DTOs.csproj", "{5D3434DB-72AE-43F5-A677-9CB61BF3A523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.DAL", "KevinMiranda.ArqLimpia.DAL\KevinMiranda.ArqLimpia.DAL.csproj", "{BE395901-B225-4E2E-868B-F465666A51E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.IoC", "KevinMiranda.ArqLimpia.IoC\KevinMiranda.ArqLimpia.IoC.csproj", "{05C0786B-DB01-4DDB-B4EB-4CA8AE712E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinMiranda.ArqLimpia.API", "KevinMiranda.ArqLimpia.API\KevinMiranda.ArqLimpia.API.csproj", "{DF961893-05FF-4CA3-AEB8-158EE6307ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85AB47FA-E5D0-4397-9747-78A7740253BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AB47FA-E5D0-4397-9747-78A7740253BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AB47FA-E5D0-4397-9747-78A7740253BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AB47FA-E5D0-4397-9747-78A7740253BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F426F8F-EBF0-46E0-90D9-EA605E9D1FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F426F8F-EBF0-46E0-90D9-EA605E9D1FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F426F8F-EBF0-46E0-90D9-EA605E9D1FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F426F8F-EBF0-46E0-90D9-EA605E9D1FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99C9188-4ED1-4A05-B357-60106CC90AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99C9188-4ED1-4A05-B357-60106CC90AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99C9188-4ED1-4A05-B357-60106CC90AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99C9188-4ED1-4A05-B357-60106CC90AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2168F801-9413-4953-AF80-31E448275053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2168F801-9413-4953-AF80-31E448275053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2168F801-9413-4953-AF80-31E448275053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2168F801-9413-4953-AF80-31E448275053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3434DB-72AE-43F5-A677-9CB61BF3A523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3434DB-72AE-43F5-A677-9CB61BF3A523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3434DB-72AE-43F5-A677-9CB61BF3A523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3434DB-72AE-43F5-A677-9CB61BF3A523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE395901-B225-4E2E-868B-F465666A51E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE395901-B225-4E2E-868B-F465666A51E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE395901-B225-4E2E-868B-F465666A51E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE395901-B225-4E2E-868B-F465666A51E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C0786B-DB01-4DDB-B4EB-4CA8AE712E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C0786B-DB01-4DDB-B4EB-4CA8AE712E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C0786B-DB01-4DDB-B4EB-4CA8AE712E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C0786B-DB01-4DDB-B4EB-4CA8AE712E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF961893-05FF-4CA3-AEB8-158EE6307ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF961893-05FF-4CA3-AEB8-158EE6307ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF961893-05FF-4CA3-AEB8-158EE6307ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF961893-05FF-4CA3-AEB8-158EE6307ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{85AB47FA-E5D0-4397-9747-78A7740253BD} = {57C7303D-CDDE-49EA-8FEF-6247EBDC4446}
+		{9F426F8F-EBF0-46E0-90D9-EA605E9D1FB6} = {57C7303D-CDDE-49EA-8FEF-6247EBDC4446}
+		{F99C9188-4ED1-4A05-B357-60106CC90AD6} = {50BAE0FC-3596-48C2-8209-82443721CCFE}
+		{2168F801-9413-4953-AF80-31E448275053} = {50BAE0FC-3596-48C2-8209-82443721CCFE}
+		{5D3434DB-72AE-43F5-A677-9CB61BF3A523} = {50BAE0FC-3596-48C2-8209-82443721CCFE}
+		{BE395901-B225-4E2E-868B-F465666A51E4} = {308FF4C1-950D-4BDB-A150-CD99F5EAB30D}
+		{05C0786B-DB01-4DDB-B4EB-4CA8AE712E3C} = {308FF4C1-950D-4BDB-A150-CD99F5EAB30D}
+		{DF961893-05FF-4CA3-AEB8-158EE6307ADC} = {12A6446C-C09A-47C9-BB91-B9A90A380673}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B551C13-75BE-4827-B057-EAE79BD8666F}
+	EndGlobalSection
+EndGlobal

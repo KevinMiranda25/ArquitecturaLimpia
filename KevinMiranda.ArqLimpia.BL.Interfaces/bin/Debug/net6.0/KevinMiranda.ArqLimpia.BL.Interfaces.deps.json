@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KevinMiranda.ArqLimpia.BL.Interfaces/1.0.0": {
+        "dependencies": {
+          "KevinMiranda.ArqLimpia.BL.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "KevinMiranda.ArqLimpia.BL.Interfaces.dll": {}
+        }
+      },
+      "KevinMiranda.ArqLimpia.BL.DTOs/1.0.0": {
+        "runtime": {
+          "KevinMiranda.ArqLimpia.BL.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KevinMiranda.ArqLimpia.BL.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KevinMiranda.ArqLimpia.BL.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
